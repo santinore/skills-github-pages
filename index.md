@@ -1,5 +1,5 @@
 ---
-title: "Willkommen auf meinem Blog!"
+title: "Willkommen auf meiner Website!"
 date: 2025-06-12
 layout: default
 ---
